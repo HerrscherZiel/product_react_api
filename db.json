@@ -10,17 +10,24 @@
  
   {
   "id": 2,
-    "name": "Sistem Informasi OkeAja",
-    "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna dalam mencari objek wisata yang ada pada suatu daerah",
-    "job": "Dalam proyek ini saya mengerjakan bagian Back-End"
+    "name": "Website Pendaftaran Tech Enthusiast Day",
+    "desc": "Website yang digunakan oleh peserta lomba yang ada pada event Tech Entusiast Day untuk mendaftar maupun mencari informasi",
+    "job": "Dalam proyek ini saya sedikit mengerjakan bagian Front-End"
   }, 
   
   {
   "id": 3,
-    "name": "Sistem Informasi OkeAja",
-    "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna dalam mencari objek wisata yang ada pada suatu daerah",
-    "job": "Dalam proyek ini saya mengerjakan bagian Back-End"
-  }
+    "name": "Sistem Informasi Seminar",
+    "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna mencari informasi seputar seminar yang akan diadakan",
+    "job": "Dalam proyek ini saya mengerjakan bagian Back-End khususnya migrasi database"
+  },
+  
+  {
+  "id": 4,
+    "name": "Aplikasi Mobile MangaNote!",
+    "desc": "Aplikasi yang bisa digunakan pengguna untuk mencari manga yang dinilai menarik kemudian mencatatnya disebuah note",
+    "job": "Dalam proyek ini saya mengerjakan bagian Back-End dan Front-End"
+  },
  
  ]
 }
